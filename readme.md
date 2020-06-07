@@ -10,7 +10,8 @@ Prerequisites
     - empty id as 0
     - empty price as 0.0 
     - if output.csv exists, need delete manually before run application
-     
+    - all input csv files must placed on same directory plain, no nesting directories
+    - csv files must be in UTF-8 encoding 
  
 Usage
     
